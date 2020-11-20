@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jennplaza-resume/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/jennplaza-resume/static/js/main.1850d4fc.chunk.js",
+    "main.js.map": "/jennplaza-resume/static/js/main.1850d4fc.chunk.js.map",
+    "runtime-main.js": "/jennplaza-resume/static/js/runtime-main.2848f768.js",
+    "runtime-main.js.map": "/jennplaza-resume/static/js/runtime-main.2848f768.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/jennplaza-resume/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d261df92.chunk.js": "/jennplaza-resume/static/js/2.d261df92.chunk.js",
+    "static/js/2.d261df92.chunk.js.map": "/jennplaza-resume/static/js/2.d261df92.chunk.js.map",
+    "index.html": "/jennplaza-resume/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/jennplaza-resume/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/jennplaza-resume/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d261df92.chunk.js.LICENSE.txt": "/jennplaza-resume/static/js/2.d261df92.chunk.js.LICENSE.txt",
+    "static/media/logo_JPbtn.d62b9573.png": "/jennplaza-resume/static/media/logo_JPbtn.d62b9573.png",
+    "static/media/logo_jenPlaza.d8b810f3.png": "/jennplaza-resume/static/media/logo_jenPlaza.d8b810f3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2848f768.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d261df92.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1850d4fc.chunk.js"
+  ]
+}
