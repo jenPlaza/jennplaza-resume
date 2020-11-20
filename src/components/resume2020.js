@@ -269,7 +269,7 @@ export default function Resume2020() {
         <h5>jennyp.plaza@gmail.com</h5>
         <br /> <br /> <br />
       </Grid>
-      <Grid item xs={6} sm={5} md={2} lg={2}>
+      <Grid item xs={6} sm={5} md={2} lg={2} xl={1}>
         <PrintButton />
       </Grid>
     </Grid>

@@ -27,7 +27,7 @@ export default PrintButton;
 
 const styles = {
   Btn: {
-    width: '85%',
-    margin: '14%'
+    width: '50%',
+    margin: '15%'
   }
 };
