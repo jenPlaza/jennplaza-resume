@@ -2,7 +2,7 @@
 import React from 'react';
 
 //images
-import logoButton from '../images/logo_JPbtn.png';
+import logoButton from '../../images/logo_JPbtn.png';
 
 //Material UI
 import { makeStyles, Grid, Link } from '@material-ui/core';
@@ -112,7 +112,7 @@ export default function Footer() {
         <Grid item xs={12} className={classes.whiteSpace}></Grid>
         {/*  LOGO */}
         <Grid item xs={3} md={2}>
-          <a href="/jennplaza/">
+          <a href="https://jenplaza.github.io/jennplaza/">
             <img src={logoButton} alt="Logo Button" className={classes.logob} />
           </a>
         </Grid>
