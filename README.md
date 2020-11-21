@@ -1,70 +1,10 @@
-# Getting Started with Create React App
+# Jenn Plaza -Resume: Part 3 of Portfolio Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+The portfolio is a simple landing page with a project gallery and an about me section linking to an About page whom includes  contact information.  When the user goes to https://jenplaza.github.io/jennplaza/they will be able to find the mission statement by clicking on About from the navigational menu…
 
-In the project directory, you can run:
+At the main page, https://jenplaza.github.io/jennplaza/ the Design provides the user with branding, a navigational menu to the About and Resume page. The main section contains a Read More button, that when clicked, the user will be taken to https://jenplaza.github.io/jennplaza-aboutme/ that will provide the user with information about Jenn Plaza, the mission statement and contact information; this page is also reached by clicking on the About link from the navigation menu. The Resume page is reached by clicking on the navigational menu and from the About page My Resume link. The resume can be printed by clicking on the Print Me button. The image gallery displays available projects. This section will have its images justified and be evenly distributed in rows. The user will be able to scroll down to see all projects. Each image links to their public domain and will also include a Grid Title Bar that will have links to Jenn Plaza’s GitHub repository https://github.com/jenPlaza.  Portfolio Projects: Faith Specialty Plates, Parks2Go, Post It, Bike Shop, Music: Contact Form, Capstone. The Footer will provide the user with a smaller blurb about Jenn Plaza, contact info, and social media links to connect with her. 
 
-### `yarn start`
+For this website, I need to develop 3 pages, Home, About, Resume. I will be using HTML for content, CSS for styling, and JavaScript for forms and navigational buttons. I will combine Html and CSS styling to validate forms. I will be using react image galleries to showcase my projects and bootstrap and material UI as my framework libraries.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The website will be accessible for multiple device sizes 360-2000 px.  It will be designed with the mobile first approach and then work its way up in size. Once the website is running the site will be published on GitHub’s pages and available to all to see.
