@@ -2,7 +2,7 @@
 import React from 'react';
 
 //images
-import logoButton from '../../images/logo_JPbtn.png';
+import logoButton from '../images/logo_JPbtn.png';
 
 //Material UI
 import { makeStyles, Grid, Link } from '@material-ui/core';
