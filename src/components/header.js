@@ -53,7 +53,7 @@ const useStyles = makeStyles(theme => ({
     display: 'inline-block'
   },
   navItemContainer: {
-    margin: '1% 0% 0% -15%',
+    margin: '4% 0% 0% -15%',
     //border: '1px solid green',
     width: '450px',
     fontSize: '1.5em',
