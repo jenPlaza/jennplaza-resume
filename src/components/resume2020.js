@@ -3,14 +3,14 @@ import { makeStyles, Grid } from '@material-ui/core';
 import PrintButton from './printButton';
 
 //style
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   root: {
     backgroundColor: 'white',
-    padding: '8% 12% 0% 8%'
+    padding: '8% 12% 0% 8%',
   },
   resume: {
-    margin: '0% 0% 0% 4%'
-  }
+    margin: '0% 0% 0% 4%',
+  },
 }));
 
 //exporting a class footer
@@ -187,7 +187,7 @@ export default function Resume2020() {
           <li>
             <h4>
               {' '}
-              <b>Web Design & Development</b>, Nov 2017 – Nov 2020{' '}
+              <b>Web Design & Development (BA)</b>, Nov 2017 – Nov 2020{' '}
             </h4>
           </li>
           <li>
