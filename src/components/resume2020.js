@@ -187,7 +187,7 @@ export default function Resume2020() {
           <li>
             <h4>
               {' '}
-              <b>Web Design & Development (BA)</b>, Nov 2017 – Nov 2020{' '}
+              <b>Web Design & Development (BS)</b>, Nov 2017 – Nov 2020{' '}
             </h4>
           </li>
           <li>
