@@ -193,7 +193,7 @@ export default function Resume2020() {
           <li>
             <h4>
               {' '}
-              <b> Internet Marketing</b>, Marketing,Mar 2017 – Nov 2017
+              <b> Internet Marketing</b>, Marketing, Mar 2017 – Nov 2017
             </h4>
           </li>
           <br />
