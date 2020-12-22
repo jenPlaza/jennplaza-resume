@@ -193,7 +193,7 @@ export default function Resume2020() {
           <li>
             <h4>
               {' '}
-              <b> Internet Marketing</b>, Marketing, Mar 2017 – Nov 2017
+              <b> Internet Marketing</b>, Mar 2017 – Nov 2017
             </h4>
           </li>
           <br />
@@ -206,10 +206,13 @@ export default function Resume2020() {
             </li>
           </ul>
           <br />
-          <h3>Activities and Societies:</h3>
+          <h3>Awards and Societies:</h3>
           <ul>
             <li>
-              <h4> Phi Theta Kappa,1998 - 1999</h4>
+              <h4> Advanced Achievement Award, Nov 2020</h4>
+            </li>
+            <li>
+              <h4> Phi Theta Kappa, 1998 - 1999</h4>
             </li>
           </ul>
         </ul>
